@@ -1,3 +1,8 @@
+# DEPRECATED
+This repo is no longer active and has been archived in read-only mode.
+
+Active work on our Arduino Base has moved to the [arduino-base](https://github.com/scimusmn/arduino-base) repo.
+
 # Arduino Base
 The goal of this repo is to serve as a go-to boilerplate for rapid Arduino prototyping. It holds SMM's most up-to-date Arduino-related libraries, and a boilerplate sketch for use to quickly build exhibit prototypes. The way you choose to use this repo is up to you, but two suggested ways are noted below.
 
